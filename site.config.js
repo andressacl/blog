@@ -49,7 +49,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "andressacl/blog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
