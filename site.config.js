@@ -12,7 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-    
+    name:`Github`,
+    href: "https://github.com/andressacl",
     },
   ],
   // blog setting (required)
