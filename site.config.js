@@ -51,7 +51,7 @@ const CONFIG = {
     config: {
       repo: "andressacl/blog",
       "issue-term": "og:title",
-      label: "💬 Utterances",
+      label: "Utterances",
     },
   },
   cusdis: {
