@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "CAIFSC",
-    image: "", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "src/logo_basic_color_1080x1080 (1).jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Clube de Astronomia do IFSC",
     bio: "",
     email: "clubedeastronomiaifsc@gmail.com",
