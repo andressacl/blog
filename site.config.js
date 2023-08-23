@@ -7,14 +7,14 @@ const CONFIG = {
     bio: "",
     email: "clubedeastronomiaifsc@gmail.com",
     linkedin: "",
-    github: "andressacl",
-    instagram: "",
+    github: "",
+    instagram: "caifsc",
   },
   
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `GitHub`,
+      href: "https://github.com/andressacl/",
     },
   ],
   // blog setting (required)
