@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "CAIFSC",
-    image: "src/logo_basic_color_1080x1080 (1).jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/logo_basic_color_1080x1080 (1).jpg", 
     role: "Clube de Astronomia do IFSC",
     bio: "",
     email: "clubedeastronomiaifsc@gmail.com",
@@ -26,7 +26,7 @@ const CONFIG = {
   link: "https://andressacl-blog.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'pt-BR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "/logo_basic_gray.ico", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
