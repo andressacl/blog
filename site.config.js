@@ -26,7 +26,7 @@ const CONFIG = {
   link: "https://andressacl-blog.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'pt-BR']
-  ogImageGenerateURL: "/logo_basic_gray.ico", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "/logo_basic_gray.png", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
