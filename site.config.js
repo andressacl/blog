@@ -1,11 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Andressa",
+    name: "CAIFSC",
     image: "", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Física Computacional",
+    role: "Clube de Astronomia do IFSC",
     bio: "",
-    email: "andressacolaco@usp.br",
+    email: "clubedeastronomiaifsc@gmail.com",
     linkedin: "",
     github: "andressacl",
     instagram: "",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "andressacl",
-    description: "Blog voltado a mini-projetos feitos na graduação.",
+    title: "caifsc",
+    description: "",
   },
 
   // CONFIG configration (required)
